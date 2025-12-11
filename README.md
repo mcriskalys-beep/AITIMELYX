@@ -1,2 +1,3 @@
-# AITIMELYX
-SITE POUR GERER LES RDV DES PROFESSIONNEL
+# Timelyx — ZIP complet
+
+Projet structuré backend + frontend + infra.
